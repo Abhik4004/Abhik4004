@@ -14,7 +14,7 @@ I'm a passionate Software Engineer, always exploring new technologies and buildi
 
 - 💻 JavaScript | Python | C | Motoko
 - 🛠️ React | Node.js 
-- 📊 MySQL | MongoDB
+- 📊 MySQL | MongoDB | PostgresSQL
 - 🖥️ VS Code | Git | GitHub
 
 ## Let's Connect! 🤝
