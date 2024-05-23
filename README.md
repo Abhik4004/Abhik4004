@@ -12,8 +12,8 @@ I'm a passionate Software Engineer, always exploring new technologies and buildi
 
 ## Technologies & Tools
 
-- 💻 JavaScript | Python | C | Motoko
-- 🛠️ React | Node.js 
+- 💻 JavaScript | Python | C 
+- 🛠️ React | Node.JS | Machine Learning | Express.JS 
 - 📊 MySQL | MongoDB | PostgresSQL
 - 🖥️ VS Code | Git | GitHub
 
