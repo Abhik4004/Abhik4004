@@ -4,7 +4,7 @@ I'm a passionate Software Engineer, always exploring new technologies and buildi
 
 ## About Me
 
-- 💻 Currently diving deep into Machine Learning and Data Science
+- 💻 Currently diving deep into Machine Learning and Mobile App development
 - 🎨 Love creating beautiful and user-friendly web applications
 - 📚 Enthusiastic about learning and sharing knowledge with others
 - 🎮 Enjoy playing video games and coding side projects in my free time
