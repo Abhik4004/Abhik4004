@@ -12,9 +12,9 @@ I'm a passionate Software Engineer, always exploring new technologies and buildi
 
 ## Technologies & Tools
 
-- 💻 JavaScript | Python | C | Java
-- 🛠️ React | Node.JS | Machine Learning | Express.JS | React-Native
-- 📊 MySQL | MongoDB | PostgresSQL
+- 💻 JavaScript | Python | C 
+- 🛠️ React | Node.JS | Machine Learning | Express.JS | React-Native | Langchain
+- 📊 MySQL | MongoDB | PostgresSQL | VectorDB
 - 🖥️ VS Code | Git | GitHub
 
 ## Let's Connect! 🤝
