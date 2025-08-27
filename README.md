@@ -21,9 +21,9 @@ I'm a passionate Software Engineer, always exploring new technologies and buildi
 
 Feel free to reach out for collaborations, discussions, or just to say hi! I'm always open to new opportunities and friendships. 😄
 
-- 📫 [Email](mailto:your-abhik.ghosh.2004@outlook.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abhik-ghosh-27b3632a0/)
-- 🌐 [Portfolio](https://abhik4.netlify.app/)
+- 📫 [Email](mailto:your-ghosh.abhik.2004@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abhik-ghosh-portfolio/)
+- 🌐 [Portfolio](https://abhik-portfolio-lime.vercel.app/)
 
 ## Fun Fact 🎉
 
